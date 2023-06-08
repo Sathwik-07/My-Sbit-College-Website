@@ -1,2 +1,2 @@
-# My-Sbit-College-Website
-This is a Single Static webpage of our Sbit College which is developed using Html,Css and Javascript
+# cimagecollege.github.io
+This is a clone website created by me from scratch using HTML &amp; CSS.
