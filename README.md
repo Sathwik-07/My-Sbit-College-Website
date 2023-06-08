@@ -1,2 +1,3 @@
-# cimagecollege.github.io
-This is a clone website created by me from scratch using HTML &amp; CSS.
+# This is my College Website
+
+This is a single static webpage developed using Html,Css and Javascript
